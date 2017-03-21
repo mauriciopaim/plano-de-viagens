@@ -423,12 +423,6 @@ h6,
   text-align: right;
   color: #ffffff;
 }
-#msg-box5-p H3 {
-  text-align: left;
-}
-#msg-box5-p P {
-  text-align: left;
-}
 #msg-box5-j P {
   text-align: left;
 }
@@ -445,6 +439,12 @@ h6,
 #header3-o H3 {
   font-size: 36px;
   color: #ffffff;
+}
+#msg-box5-p H3 {
+  text-align: left;
+}
+#msg-box5-p P {
+  text-align: left;
 }
 #header3-s .mbr-section-title,
 #header3-s .mbr-section-subtitle {
