@@ -429,11 +429,15 @@ h6,
   text-align: right;
   color: #ffffff;
 }
+#msg-box5-7 H3 {
+  color: #0096d3;
+}
 #msg-box5-j P {
   text-align: left;
 }
 #msg-box5-j H3 {
   text-align: left;
+  color: #0096d3;
 }
 #content6-n P {
   text-align: left;
@@ -448,6 +452,7 @@ h6,
 }
 #msg-box5-p H3 {
   text-align: left;
+  color: #0096d3;
 }
 #msg-box5-p P {
   text-align: left;
@@ -482,4 +487,7 @@ h6,
 }
 #msg-box8-w .lead UL {
   text-align: left;
+}
+#social-buttons1-10 .mbr-section-title {
+  color: #0096d3;
 }

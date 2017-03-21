@@ -92,7 +92,7 @@
           "_params": {
             "paddingTop": "3",
             "paddingBottom": "3",
-            "bgColor": "#003870",
+            "bgColor": "#0096d3",
             "showMeta": false
           },
           "title": "O que é um plano de viagens?",
@@ -109,7 +109,7 @@
             "paddingBottom": "2",
             "bgColor": "#efefef"
           },
-          "text": "<p>Não consegue firmar o compromisso de separar um dinheirinho para viajar todo mês? Então o Plano de Viagens pode ser a solução para você: só ele garante a possibilidade de voc\u001bê viajar todo ano!</p><p><br></p><p>Isso porque, ao fechar o contrato, você paga mensalmente as parcelas do plano. A mensalidade garante a sua poupança que só poderá ser utilizada para fins turísticos, como diárias nos hotéis conveniados do plano e outros produtos turísticos, como passagens, pacotes de passeios, etc...&nbsp;</p><p><br></p><p>O Plano inclui a contratação da maioria dos serviços que serão utilizados por você na viagem. Isso faz com que você economize no cartão de crédito enquanto estiver aproveitando a sua estadia. Afinal, quase tudo já estará pago quando você embarcar.&nbsp;</p><p><br></p><p>Se interessou e quer saber mais sobre essa modalidade? Então vamos continuar:</p><p><br></p>"
+          "text": "<p>Não consegue firmar o compromisso de separar um dinheirinho para viajar todo mês? Então o Plano de Viagens pode ser a solução para você: só ele garante a possibilidade de voc\u001bê viajar todo ano!</p><p><br></p><p>Isso porque, ao fechar o contrato, você paga mensalmente as parcelas do plano. A mensalidade garante a sua poupança que só poderá ser utilizada para fins turísticos, como diárias nos hotéis conveniados do plano e outros produtos turísticos, como passagens, pacotes de passeios, etc...&nbsp;</p><p><br></p><p>O Plano inclui a contratação da maioria dos serviços que serão utilizados por você na viagem. Isso faz com que você economize no cartão de crédito enquanto estiver aproveitando a sua estadia. Afinal, quase tudo já estará pago quando você embarcar.&nbsp;</p><p><br></p><p>Se interessou e quer saber mais sobre essa modalidade? Então vamos continuar:</p>"
         },
         {
           "_name": "footer1",
@@ -135,8 +135,8 @@
           "_name": "msg-box5",
           "_anchor": "msg-box5-7",
           "_params": {
-            "imageSize": "49",
-            "paddingTop": "2",
+            "imageSize": "40",
+            "paddingTop": "1",
             "paddingBottom": "0",
             "parallax": true,
             "bgImageRadio": false,
@@ -175,7 +175,12 @@
           },
           "title": "Como esses<br>\u001bplanos funcionam?",
           "text": "Aderir a um plano de viagens é muito simples. O turista interessado deve entrar em contato com a empresa que oferece o serviço e pagar uma taxa de adesão. Essas taxas costumam variar de acordo com a empresa e com o plano escolhido, que deve ser selecionado de acordo com o perfil do viajante e da família que irá usufruir dele.<br><br>Na escolha do plano devem ser levados em consideração fatores como a quantidade de diárias durante o ano, por exemplo. Na maioria dos contratos, essa quantidade de diárias pode ser utilizada de uma só vez ou pode ser parcelada entre feriados e férias.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "_styles": {
+            "H3": {
+              "color": "#0096d3"
+            }
+          }
         },
         {
           "_tags": [
@@ -213,7 +218,8 @@
               "text-align": "left"
             },
             "H3": {
-              "text-align": "left"
+              "text-align": "left",
+              "color": "#0096d3"
             }
           },
           "_anchor": "msg-box5-j",
@@ -339,7 +345,7 @@
           "_params": {
             "paddingTop": "3",
             "paddingBottom": "3",
-            "bgColor": "#41a85f",
+            "bgColor": "#0096d3",
             "showMeta": false
           },
           "title": "E aí? Conseguiu identificar se o Plano de Viagens é para você?",
@@ -352,7 +358,8 @@
           "_name": "msg-box5",
           "_styles": {
             "H3": {
-              "text-align": "left"
+              "text-align": "left",
+              "color": "#0096d3"
             },
             "P": {
               "text-align": "left"
@@ -433,7 +440,7 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "3",
-            "bgColor": "#f3c649",
+            "bgColor": "#0096d3",
             "showMeta": false
           },
           "title": "Qual é a diferença entre pagar as parcelas de um plano e parcelar uma viagem em 12x?",
@@ -517,7 +524,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#003870",
+            "bgColor": "#0096d3",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -597,7 +604,12 @@
             "vkontakte": false,
             "odnoklassniki": false
           },
-          "text": "Compartilhe esta página!"
+          "text": "Compartilhe esta página!",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#0096d3"
+            }
+          }
         }
       ]
     }
