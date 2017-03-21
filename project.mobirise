@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 36,
+    "uniqCompNum": 39,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/fatcow-farm-fresh-travel-128x128.png",
     "noImageResize": ""
@@ -578,6 +578,31 @@
           },
           "text1": "<p><b><br></b></p><p><b>O Plano</b></p><p><b><br></b></p><p>O Plano de Viagem SBTUR dá ao cliente o direito de utilizar sete diárias por ano em apartamento duplo com café da manhã em mais de 10 mil hotéis em todo o mundo.</p><p><br></p><p>Os planos são divididos em sete, 14, 21 ou 28 diárias. Porém, o dinheiro investido no SBTUR é livre e você pode usar os seus créditos da maneira que preferir, inclusive em outros produtos turísticos.&nbsp;</p><p><br></p>",
           "text2": "<p><br></p><p><b>Quando usar as diárias</b></p><p><br></p><p>Você pode usar as suas diárias quando quiser. É só avisar a equipe do SBTUR sobre seu destino preferido e nós procuramos o melhor hotel, entre os conveniados, para você.</p><p><br></p><p>Uma diária do Plano corresponde a uma pernoite de estadia nesses hotéis. Essa é a melhor forma de ficar mais tempo no hotel de sua preferência a um preço bem mais baixo do que o praticado normalmente.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-10",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "Compartilhe esta página!"
         }
       ]
     }
