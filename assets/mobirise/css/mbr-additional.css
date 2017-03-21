@@ -414,6 +414,12 @@ h6,
 .mbr-gallery-filter li:hover {
   color: #c0a375;
 }
+#header1-1 .mbr-section-title {
+  color: #ffffff;
+}
+#header1-1 .mbr-section-lead SPAN {
+  color: #ffffff;
+}
 #header3-1 .mbr-section-title,
 #header3-1 .mbr-section-subtitle {
   text-align: center;

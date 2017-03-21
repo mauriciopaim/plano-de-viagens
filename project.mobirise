@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 39,
+    "uniqCompNum": 40,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/fatcow-farm-fresh-travel-128x128.png",
     "noImageResize": ""
@@ -46,14 +46,14 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1333.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": false,
+            "overlay": true,
             "overlayOpacity": 0.5,
             "overlayColor": "#000",
             "contentAlign": "center",
@@ -62,8 +62,16 @@
             "showButtons": false
           },
           "title": "Plano de Viagens: a disciplina financeira que você precisa para viajar todos os anos",
-          "text": "<span style=\"font-style: normal;\">Plano de Viagens. Já ouviu falar? </span><br><span style=\"font-style: normal;\">Se você tem pouca disciplina financeira e nunca consegue viajar porque não guardou aquele dinheiro, atenção: esse texto é para você! Conheça mais sobre o Plano de Viagem e como ele pode te ajudar a viajar todos os anos.</span><br>",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLICK TO EDIT</a>"
+          "text": "<span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\">Plano de Viagens. Já ouviu falar? </span><br><span style=\"font-style: normal;\">Se você tem pouca disciplina financeira e nunca consegue viajar porque não guardou aquele dinheiro, atenção: esse texto é para você! Conheça mais sobre o Plano de Viagem e como ele pode te ajudar a viajar todos os anos.</span><br>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLICK TO EDIT</a>",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-lead SPAN": {
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "_styles": {
@@ -84,7 +92,7 @@
           "_params": {
             "paddingTop": "3",
             "paddingBottom": "3",
-            "bgColor": "#41a85f",
+            "bgColor": "#003870",
             "showMeta": false
           },
           "title": "O que é um plano de viagens?",
