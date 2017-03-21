@@ -1,0 +1,585 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "name": "Plano de Viagens",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Roboto Slab",
+        "subtitleFont": "Lora",
+        "textFont": "Roboto",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true,
+        "isRtl": false
+      }
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 36,
+    "versionPublish": "3.12.1",
+    "favicon": "@PROJECT_PATH@/assets/images/fatcow-farm-fresh-travel-128x128.png",
+    "noImageResize": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_name": "header1",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_anchor": "header1-1",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "Plano de Viagens: a disciplina financeira que você precisa para viajar todos os anos",
+          "text": "<span style=\"font-style: normal;\">Plano de Viagens. Já ouviu falar? </span><br><span style=\"font-style: normal;\">Se você tem pouca disciplina financeira e nunca consegue viajar porque não guardou aquele dinheiro, atenção: esse texto é para você! Conheça mais sobre o Plano de Viagem e como ele pode te ajudar a viajar todos os anos.</span><br>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLICK TO EDIT</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "46px",
+              "text-align": "right",
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgColor": "#41a85f",
+            "showMeta": false
+          },
+          "title": "O que é um plano de viagens?",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "2",
+            "bgColor": "#efefef"
+          },
+          "text": "<p>Não consegue firmar o compromisso de separar um dinheirinho para viajar todo mês? Então o Plano de Viagens pode ser a solução para você: só ele garante a possibilidade de voc\u001bê viajar todo ano!</p><p><br></p><p>Isso porque, ao fechar o contrato, você paga mensalmente as parcelas do plano. A mensalidade garante a sua poupança que só poderá ser utilizada para fins turísticos, como diárias nos hotéis conveniados do plano e outros produtos turísticos, como passagens, pacotes de passeios, etc...&nbsp;</p><p><br></p><p>O Plano inclui a contratação da maioria dos serviços que serão utilizados por você na viagem. Isso faz com que você economize no cartão de crédito enquanto estiver aproveitando a sua estadia. Afinal, quase tudo já estará pago quando você embarcar.&nbsp;</p><p><br></p><p>Se interessou e quer saber mais sobre essa modalidade? Então vamos continuar:</p><p><br></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-h",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>Eu preciso gastar com as minhas diárias todos os anos?&nbsp;</b></p><p>Não. Se você não pode viajar todos os anos, saiba que as suas diárias, em todos os hotéis conveniados, são válidas por dois anos a partir da data em que você pagou a primeira mensalidade.</p><p><br></p><p>Se nesses dois anos você não conseguir usar as diárias, elas podem ser convertidas em milhas Smiles um pouco antes de vencerem.</p><p><b><br></b></p><p><b>Não consigo viajar porque é muito caro</b></p><p>Um Plano de Viagem funciona como uma poupança. Todo o dinheiro investido nas pequenas mensalidades pode ser usado em viagens mais para frente.&nbsp;</p><p><br></p><p>Quando você for usar o plano, pode ter acumulado um valor ainda maior do que se tivesse que pagar tudo de uma vez.</p><p><br></p><p><b>E se eu precisar de mais diárias do que o Plano me oferece?&nbsp;</b></p><p>Com o SBTUR você pode comprar diárias a mais com até 50% de desconto dentro da lista de hotéis conveniados.</p><p><br></p><p><b>Eu ainda não tenho viagens em mente&nbsp;</b></p><p>Não tem problema! Essa é a realidade da maioria das pessoas que optam por essa modalidade. Como citamos anteriormente, o Plano funciona como uma poupança para viajar e o pagamento das mensalidades independe da data e do destino que você escolher.</p><p><br></p><p>Com um Plano como esse, você já adianta as economias investimento um valor mensal que poderá ser usado, dentro de dois anos, quando você decidir o destino e a data de preferência para a sua viagem.</p><p><br></p><p><b>Pretendo viajar para o exterior</b></p><p>Tudo bem! Nossa lista de hotéis credenciados contém mais de 10 mil estabelecimentos no Brasil e no mundo.</p><p><b><br></b></p><p><b>Se eu precisar comprar as passagens pelo Plano, eu consigo?</b></p><p>Sim. O valor investido no Plano de Viagens vale para qualquer produto turístico, seja ele passagens aéreas, aluguel de carros, cruzeiros, ingressos...</p><p><b><br></b></p><p><b>Eu posso levar meus filhos na viagem?</b></p><p>É claro. A maioria dos hotéis credenciados oferece camas extras para crianças no quarto reservado. Dependendo da idade e do estabelecimento, o adicional pode até ser gratuito.</p><p><b><br></b></p><p><b>Eu não posso bloquear o limite do meu cartão</b></p><p>Então não se preocupe. As mensalidades do Plano do SBTUR são descontadas em débito em conta ou no cartão de crédito. Não há bloqueio de valores no cartão para não ocupar o limite dele.</p><p><b><br></b></p><p><b>Não tenho tempo para ir atrás das reservas do hotel</b></p><p>Com o nosso Plano de Viagens você nem precisa! É só entrar em contato conosco e dizer o seu destino de preferência que a nossa equipe recomenda os melhores hotéis para você.</p><p><br></p><p>E aí? Conseguiu identificar se o Plano de Viagens é para você?\u001b</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-p",
+          "_params": {
+            "imageSize": "33",
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Quais são as vantagens de um plano de viagem?",
+          "text": "As vantagens são várias. <b>Vamos conferir?</b>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_styles": {
+            "H3": {
+              "text-align": "left"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-2",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Mobirise."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-7",
+          "_params": {
+            "imageSize": "49",
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Como esses<br>\u001bplanos funcionam?",
+          "text": "Aderir a um plano de viagens é muito simples. O turista interessado deve entrar em contato com a empresa que oferece o serviço e pagar uma taxa de adesão. Essas taxas costumam variar de acordo com a empresa e com o plano escolhido, que deve ser selecionado de acordo com o perfil do viajante e da família que irá usufruir dele.<br><br>Na escolha do plano devem ser levados em consideração fatores como a quantidade de diárias durante o ano, por exemplo. Na maioria dos contratos, essa quantidade de diárias pode ser utilizada de uma só vez ou pode ser parcelada entre feriados e férias.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-c",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<p><b>MENSALIDADES</b></p><p><br></p><p>É depois da escolha de quantidade de diárias por ano que os valores são divididos durante os 12 meses, o que configura nas mensalidades que o turista irá pagar ao decorrer do ano como contratante de um Plano de Viagens.</p><p><br></p><p>Ao contratar o Plano, o turista contratante assume o compromisso de pagar as mensalidades dele. Essas mensalidades também podem variar de acordo com a empresa e com as características do próprio plano escolhido.&nbsp;</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-e",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "3",
+            "bgColor": "#efefef"
+          },
+          "text": "<p><b>RESERVAS</b></p><p><br></p><p>As reservas nos hotéis devem ser agendadas de acordo com as regras presentes no contrato e aquelas determinadas pelos estabelecimentos de hospedagem. Na alta temporada, por exemplo, os quartos costumam ser mais concorridos, fazendo com que seja necessária a reserva com antecedência. Por isso, na hora de assinar o contrato do plano, é necessário avaliar bem as condições de reserva de cada opção para você não se surpreender na hora de sair de férias.</p><p><br></p><p>De qualquer maneira, por serem conveniados, os hotéis oferecem melhores preços aos contratantes de Planos de Viagens e essa é uma das vantagens que mais atraem os adeptos dessa modalidade de “poupança”.</p><p><br></p><p>Além dos preços mais baixos, o impacto do pagamento das diárias é menor quando se contrata um plano desses. Afinal, as mensalidades costumam ser pequenas se comparadas às parcelas que seriam feitas se a hospedagem fosse realizada diretamente com o hotel.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-j",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "O Plano de Viagens serve para mim?",
+          "text": "As respostas para as principais dúvidas que recebemos sobre os planos de viagens podem te ajudar a refletir e a saber se essa modalidade de investimento serve para você e para o perfil da sua família. Com algumas dessas respostas, pretendemos te ajudar a tomar a decisão certa em direção aos investimentos corretos nessas viagens.<br><br><b>Vamos lá:</b><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            },
+            "H3": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-k",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#efefef"
+          },
+          "text1": "<p><b>Eu preciso gastar com as minhas diárias todos os anos?</b></p><p><br></p><p>Não. Se você não pode viajar todos os anos, saiba que as suas diárias, em todos os hotéis conveniados, são válidas por dois anos a partir da data em que você pagou a primeira mensalidade.</p><p><br></p><p>Se nesses dois anos você não conseguir usar as diárias, elas podem ser convertidas em milhas Smiles um pouco antes de vencerem.</p>",
+          "text2": "<p><b>Não consigo viajar porque é muito caro</b></p><p><br></p><p>Um Plano de Viagem funciona como uma poupança. Todo o dinheiro investido nas pequenas mensalidades pode ser usado em viagens mais para frente.&nbsp;</p><p><br></p><p>Quando você for usar o plano, pode ter acumulado um valor ainda maior do que se tivesse que pagar tudo de uma vez.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-l",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b>E se eu precisar de mais diárias do que o Plano me oferece?&nbsp;</b></p><p><br></p><p>Com o SBTUR você pode comprar diárias a mais com até 50% de desconto dentro da lista de hotéis conveniados.</p><p><br></p>",
+          "text2": "<p><b>Pretendo viajar para o exterior</b></p><p><br></p><p>Tudo bem! Nossa lista de hotéis credenciados contém mais de 10 mil estabelecimentos no Brasil e no mundo.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-m",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#efefef"
+          },
+          "text1": "<p><b>Eu ainda não tenho viagens em mente</b></p><p><br></p><p>Não tem problema! Essa é a realidade da maioria das pessoas que optam por essa modalidade. Como citamos anteriormente, o Plano funciona como uma poupança para viajar e o pagamento das mensalidades independe da data e do destino que você escolher.</p><p><br></p><p>Com um Plano como esse, você já adianta as economias investimento um valor mensal que poderá ser usado, dentro de dois anos, quando você decidir o destino e a data de preferência para a sua viagem.</p>",
+          "text2": "<p><b>Eu posso levar meus filhos na viagem?</b></p><p><br></p><p>É claro. A maioria dos hotéis credenciados oferece camas extras para crianças no quarto reservado. Dependendo da idade e do estabelecimento, o adicional pode até ser gratuito.</p><p><br></p><p>&lt;h3&gt;Eu não posso bloquear o limite do meu cartão&lt;/h3&gt;</p><p><br></p><p>Então não se preocupe. As mensalidades do Plano do SBTUR são descontadas em débito em conta ou no cartão de crédito. Não há bloqueio de valores no cartão para não ocupar o limite dele.</p><p><br></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-n",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b>Não tenho tempo para ir atrás das reservas do hotel</b></p><p><br></p><p>Com o nosso Plano de Viagens você nem precisa! É só entrar em contato conosco e dizer o seu destino de preferência que a nossa equipe recomenda os melhores hotéis para você.</p>",
+          "text2": "",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "36px",
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-o",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgColor": "#41a85f",
+            "showMeta": false
+          },
+          "title": "E aí? Conseguiu identificar se o Plano de Viagens é para você?",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-r",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>Planejamento financeiro</b></p><p><br></p><p>Um dos principais fatores que impedem as pessoas de viajar é o dinheiro. Às vezes fica difícil, em uma rotina corrida, ter um planejamento financeiro correto e que possibilite viagens anuais por exemplo. Portanto, se o seu sonho é conhecer todas as praias do nordeste, ou até mesmo fazer viagens internacionais todos os anos, mas o valor te impede de fazer isso, o Plano de Viagens pode ser uma boa opção.</p><p><br></p><p>Com o pagamento mensal, fica mais fácil ter o controle e guardar o dinheiro necessário para viajar. Além disso, com o convênio com milhares de hotéis pelo muito, você ainda consegue economizar durante o passeio.</p><p><br></p><p><b>Hoteis credenciados</b></p><p><br></p><p>Outro benefício que está na lista das principais vantagens de se contratar um plano desses é a lista de hotéis conveniados. Isso porque o SBTUR seleciona os melhores hotéis de todo o mundo e oferece diárias mais baratas do que costuma ser praticado fora do plano.</p><p><br></p><p><b>Poder de escolha de quantas diárias usar</b></p><p><br></p><p>Você não precisa utilizar as sete diárias disponíveis por ano todas de uma vez. Se você planejou duas viagens no mesmo ano, você pode dividi-las e usar quatro em uma e três em outra, por exemplo.</p><p><br></p><p><b>Os descontos não são limitados a diárias em hotéis</b></p><p><br></p><p>O Plano de Viagens do SBTUR oferece desconto em vários outros produtos turísticos. Alguns deles são alugueis de carros, compra de pacotes de passeios, seguro viagem, entre outros...</p><p><br></p><p><b>Os descontos não são restritos aos titulares do Plano</b></p><p><br></p><p>Outras pessoas, como os familiares do titular, podem usufruir das diárias e dos descontos em produtos turísticos.</p><p><br></p><p><b>Os benefícios podem usar usados em todas as temporadas</b></p><p><br></p><p>As diárias nos hotéis não precisam ser feitas em baixa temporada. Elas estão disponíveis durante todo o ano. A única ressalva é que, em alta temporada, é necessário reservar os quartos com antecedência.</p><p><br></p><p><b>Praticidade e agilidade</b></p><p><br></p><p>Você, turista, não precisa ir atrás de tudo. É só falar para a nossa equipe qual é o seu destino de preferência e nós selecionamos os melhores hotéis e datas para o seu perfil de viagem.</p><p><br></p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "36px",
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-s",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "3",
+            "bgColor": "#f3c649",
+            "showMeta": false
+          },
+          "title": "Qual é a diferença entre pagar as parcelas de um plano e parcelar uma viagem em 12x?",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-t",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#ffffff"
+          },
+          "text": "<p><b>Liberdade</b></p><p><br></p><p>Uma das diferenças fundamentais ente um plano e o pagamento parcelado é a liberdade. Isso porque o Plano pode ser usado da maneira que você quiser, ou seja, você pode começar a pagar as mensalidades sem mesmo ter &nbsp;&nbsp;&nbsp;&nbsp;escolhido o destino da viagem. Isso te dá tempo para sonhar, planejar melhor o passeio e até mesmo mudar de planos no meio do caminho.</p><p><br></p><p>E mais: você pode fazer mais de uma viagem por ano com esse investimento, dividindo as diárias anuais em várias datas e vários destinos diferentes.&nbsp;</p><p><br></p><p><b>O Plano não ocupa o limite do cartão de crédito</b></p><p><br></p><p>Viagens realizadas fora de planos são caras e o parcelamento do valor delas ocupa todo o limite do seu cartão. Quando não, você precisa esperar muito tempo para guardar o dinheiro suficiente para pagá-la à vista. E quando se espera muito, se perde tarifas promocionais e outras ofertas. Já parou para pensar nisso?</p><p><br></p><p>Ademais, para parcelar uma viagem em 12x, além de precisar ter o limite suficiente disponível no cartão de crédito na hora de efetuar a compra, você vai ter de pagar juros e taxas de parcelamento, dependendo da empresa que você fechar negócio.</p><p><br></p><p>A situação piora se você não conseguir pagar o valor da viagem no vencimento e precisar parcelar, além da viagem, as faturas. Nesse caso, as taxas de juros bancários ficam nas alturas.</p><p><br></p><p>Ao contrário disso, o Plano do SBTUR utiliza o sistema de pagamento via débito em conta, ou seja, todos os meses o banco no qual você tem uma conta debita do seu saldo disponível o valor que corresponde às mensalidades.&nbsp;</p><p><br></p><p><b>No Plano não há carência</b></p><p><br></p><p>A partir do pagamento da primeira mensalidade, o contratante já está habilitado a usar todas as diárias e créditos das quais ele tem direito no contrato. Não existe uma carência para usufruir dos benefícios.</p><p>Essa característica permite que você aproveite promoções de passagens e outras no momento em que elas são lançadas. Isso porque o Plano de Viagens do SBTUR é ágil e prático.</p><p><br></p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "36px",
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-u",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgColor": "#0096d4",
+            "showMeta": false
+          },
+          "title": "Qual é a diferença entre viajar pelo plano, pela agência ou por conta?",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-v",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#fff"
+          },
+          "text": "<p>Se mesmo sabendo dos benefícios e facilidades dos planos de viagens você ainda tem dúvidas sobre a melhor maneira de fazer a sua – se pelo pleno, por uma agência ou por conta – vamos detalhar cada uma dessas categorias para você definir qual é o melhor jeito de montar o seu passeio.</p><p><br></p><p><b>Plano de Viagens</b></p><p><br></p><p>Como já mencionamos, os planos são como uma poupança para viagens. Todo mês você paga uma pequena quantia e pode reservar seu hotel – dentro da lista de estabelecimentos conveniados – a qualquer momento do ano. Com essa modalidade, as suas diárias já estão garantidas em hotéis de qualidade e sem precisar se preocupar com reservas e pesquisas de preço.</p><p><br></p><p>Vale lembrar: o pagamento da mensalidade isenta o turista do pagamento da hospedagem – que pode ser um dos itens mais caros de qualquer viagem. O Plano também disponibiliza todo o serviço de suporta ao associado, o que garante o auxílio antes, durante e depois da estadia. Esse atendimento próximo do cliente facilita o reagendamento ou cancelamento de qualquer reserva.</p><p>Em caso de hospedagem para terceiros, ou de você, como associado, já ter gasto todas as diárias previstas em contrato, os hotéis conveniados oferecem preços mais baixos de hospedagem do que aqueles praticados para os viajantes que não possuem esse tipo de plano.</p><p><br></p><p>A desvantagem dos planos, no entanto, é que se as diárias não forem usadas no prazo de dois anos, o valor investido é perdido. Porém, o SBTUR conseguiu contornar até esse problema, permitindo que o associado troque as diárias prestes a vencer por milhas Smiles.&nbsp;</p><p><br></p><p><b>Agência</b></p><p><br></p><p>A grande vantagem de viajar através de uma agência de turismo é o serviço do agente de viagem. É ele quem vai fazer toda a pesquisa de hotel, voos e qualquer outra necessidade da sua viagem. Com essa pesquisa, ele vai montar todo o roteiro para você, levando em consideração o seu perfil e o seu orçamento. Toda essa comodidade, no entanto, tem um preço e costuma ser um pouco mais alto e permite menos planejamento mensal/anual que o Plano.</p><p><br></p><p>Nesse caso, as agências oferecem condições de pagamento especiais, com parcelamentos de acordo com o dinheiro que você tem disponível. Mas como já vimos anteriormente, pagar as mensalidades de um plano costuma ser mais vantajoso do que parcelar uma viagem em 12x.</p><p><br></p><p><b>Viajar por conta</b></p><p><br></p><p>A flexibilidade é uma das principais vantagens de se viajar por conta. Com algumas ferramentas na internet você consegue comparar preços, checar localização, ler opinião de outros hóspedes e escolher qualquer lugar que você queira ficar, entre hotéis, hostels e até casa de moradores locais.&nbsp;</p><p>Com essa pesquisa que viajar pro conta permite, você pode avaliar o melhor custo x benefício dentre inúmeros possibilidades, não ficando limitando às opções de hospedagem, passeios e companhias aéreas conveniadas às agências e aos planos.</p><p><br></p><p>Porém, a falta de assistência quando se viaja sozinho pode te dar muita dor de cabeça caso aconteça algum imprevisto no meio do caminho. E isso pode ser desastroso, principalmente se você estiver muito longe de casa e em um lugar que você não conhece nada.</p><p><br></p><p>Outra desvantagem é que, ao viajar por conta, as condições de pagamento podem não ser tão acessíveis. Pode não haver tanta possibilidade de parcelamento, por exemplo. E isso implica em uma organização e controle financeiro ainda mais rigorosos.</p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "text-align": "left",
+              "font-size": "36px"
+            },
+            ".lead P": {
+              "text-align": "left",
+              "color": "#ffffff"
+            },
+            ".lead UL": {
+              "text-align": "left"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-w",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#003870",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "O Plano de Viagens SBTUR: conheça todas as formas de usar o plano de viagens da SBTUR",
+          "text": "<p>O Plano de Viagens da SBTUR reúne todas as vantagens já citadas e outras mais! Os dois principais diferenciais da empresa são:</p><p><b>-&gt; </b>&nbsp;Troca de 100% dos créditos por pacotes de hotel e cama extra</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>-&gt;</b> &nbsp;Troca de diárias por milhas Smiles</span></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-x",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#efefef"
+          },
+          "text": "<p>Cada diária corresponde a 5.714 milhas e as sete diárias anuais somam 40 mil milhas. Diante da lista de companhias aéreas parceiras no programa Smiles, percebe-se que esse diferencial pode ser bem vantajoso. Você pode usar essas milhas na Gol, TAP, Copa Airlines, Airfrance, Delta Airlines, Alitalia, Aerolíneas Argentinas, Qatar, Etihad e KLM.</p><p><br></p><p>A vantagem, nesse caso, é que o associado do Plano SBTUR pode usar duas das sete diárias anuais em algum hotel conveniado e converter as outras na compra da passagem aérea até o destino.</p><p><br></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-y",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#fff"
+          },
+          "text": "<p>Além disso, a maioria dos Clubes de Viagens estabelecem o prazo de 12 meses para se usar todas as diárias. No SBTUR é diferente: aqui, você pode planejar a viagem perfeita em até dois anos. Esticamos o prazo pois sabemos que imprevistos acontecem e nós não deixaríamos vocês sem a viagem dos sonhos.</p><p><br></p><p>Nós também mantemos um contato direto com os hotéis conveniados. Se você estiver em viagem e precisar de mais alguns dias no hotel, podemos conversar com eles e negociar novas diárias com descontos especiais.</p><p><br></p><p><b>Agora vamos às especificações do nosso Plano:</b></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-z",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text1": "<p><b><br></b></p><p><b>O Plano</b></p><p><b><br></b></p><p>O Plano de Viagem SBTUR dá ao cliente o direito de utilizar sete diárias por ano em apartamento duplo com café da manhã em mais de 10 mil hotéis em todo o mundo.</p><p><br></p><p>Os planos são divididos em sete, 14, 21 ou 28 diárias. Porém, o dinheiro investido no SBTUR é livre e você pode usar os seus créditos da maneira que preferir, inclusive em outros produtos turísticos.&nbsp;</p><p><br></p>",
+          "text2": "<p><br></p><p><b>Quando usar as diárias</b></p><p><br></p><p>Você pode usar as suas diárias quando quiser. É só avisar a equipe do SBTUR sobre seu destino preferido e nós procuramos o melhor hotel, entre os conveniados, para você.</p><p><br></p><p>Uma diária do Plano corresponde a uma pernoite de estadia nesses hotéis. Essa é a melhor forma de ficar mais tempo no hotel de sua preferência a um preço bem mais baixo do que o praticado normalmente.</p>"
+        }
+      ]
+    }
+  }
+}
