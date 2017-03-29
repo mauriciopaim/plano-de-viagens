@@ -432,7 +432,7 @@ a.mbr-iconfont:hover {
   text-align: center;
   position: relative;
   border: 2px solid #c0a375;
-  color: #232323; }
+  color: #fff; }
   .btn-social i {
     top: 0;
     line-height: 44px;
@@ -448,6 +448,7 @@ p.lead,
   font-size: 1.07rem;
   font-weight: 300;
   margin-bottom: 2.3125rem; }
+
 
 .article .lead p, .article .lead ul, .article .lead ol, .article .lead pre, .article .lead blockquote {
   margin-bottom: 0; }
@@ -1806,7 +1807,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
     -webkit-transform: translateY(-4px);
     transform: translateY(-4px); } }
 .mbr-arrow {
-  bottom: 48px;
+  bottom: 100px;
   left: 0;
   position: absolute;
   text-align: center;
